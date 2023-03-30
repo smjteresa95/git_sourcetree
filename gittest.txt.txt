@@ -1,2 +1,7 @@
 1. 첫 기능 추가
+<<<<<<< HEAD
 2. 두번째 기능 추가
+=======
+2. a
+3. this text file content diff from master branch txt file
+>>>>>>> feature;a
